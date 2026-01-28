@@ -66,7 +66,7 @@ O dashboard foi construído com foco em **clareza visual**, **tomada de decisão
 
 ---
 
-## 🎯 Principais Insights (Exemplos)
+## 🎯 Principais Insights
 
 - As categorias apresentam **preços médios semelhantes**, com leve destaque para *Widget*  
 - A média de avaliações gira em torno de **3.5**, indicando oportunidade de melhoria na experiência do produto  
